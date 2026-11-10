@@ -4,12 +4,12 @@ TEAM NAME :
 Techies Vision
 
 TEAM MEMBERS -
-Ansh Singh
-Annima  Mittal
-Suryansh Singh
-Shikhar Pratap Singh
-Shobit
-Shubham Chauhan
+Ansh Singh    
+Annima  Mittal      
+Suryansh Singh     
+Shikhar Pratap Singh      
+Shobit     
+Shubham Chauhan    
 
 PROJECT NAME : Infra_Track
 PROBLEM STATEMENT : Intelligent Data Capture & Schedule-Linking Layer for Infrastructure Project Management: Real-Time Actual Progress Tracking (Planning-to-Execution Bridge)
